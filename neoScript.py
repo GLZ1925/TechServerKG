@@ -1,5 +1,3 @@
-import pandas as pd
-import re
 from py2neo import Graph
 
 def scriptToNeo():
