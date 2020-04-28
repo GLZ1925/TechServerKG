@@ -1,3 +1,5 @@
+配合博客食用更佳https://blog.csdn.net/qq_37477357/article/details/105663929
+
 有兴趣或者有需求入门知识图谱的同学们欢迎和我一起讨论交流，也希望各路大佬在知识图谱领域能给我写建议和帮助。
 如果有什么问题欢迎issues提问或者发我邮箱youlitaiglz@pku.edu.cn
 
