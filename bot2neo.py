@@ -58,6 +58,4 @@ if __name__ == "__main__":
     cutter = thulac.thulac(user_dict="user_dict.txt")
     while True:
         text = input('TechBot请您提问...>>')
-        #analyse_question(text,cutter=cutter)
-        cut_text = cutter.cut(text)
-        print(cut_text)
+        analyse_question(text,cutter=cutter)
